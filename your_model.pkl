@@ -1,7 +1,0 @@
-import pickle
-
-# Load your trained model
-with open('your_model.pkl', 'rb') as f:
-    model = pickle.load(f)
-
-    
