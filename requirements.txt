@@ -1,3 +1,0 @@
-streamlit
-sklearn.metrics
-numpy
